@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### I'm Drago, Learning Everyday 🤘
+- [x] Create A GitHub Account 
+- [ ] Make A Discord Bot Repo With Quick.db 
+- [ ] Make A Discord Bot Repo With mongoDB
