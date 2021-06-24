@@ -18,4 +18,3 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api?username=Drago-Dev24&&show_icons=true" >
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drago-Dev24&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Drago-Dev24&layout=compact&theme=radical">
