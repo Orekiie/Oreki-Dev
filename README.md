@@ -7,6 +7,8 @@
 
 - 👨‍💻 All of my projects are available at [oreki.gq](oreki.gq)
 
+- 📝 I regularly write articles on [blog.oreki.gq](blog.oreki.gq)
+
 - 💬 Ask me about **discord.js, express and ejs**
 
 - 📫 How to reach me **oreki@oreki.gq**
