@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently trying to learn **React And Vue**
 
-- 👨‍💻 All of my projects are available at [oreki.gq](oreki.gq)
+- 👨‍💻 All of my projects are available at [oreki.gq](https://oreki.gq)
 
-- 📝 I regularly write articles on [blog.oreki.gq](blog.oreki.gq)
+- 📝 I regularly write articles on [blog.oreki.gq](https://blog.oreki.gq)
 
 - 💬 Ask me about **discord.js, express and ejs**
 
