@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **discord.js, express and ejs**
 
-- 📫 How to reach me **oreki@oreki.is-a.dev**
+- 📫 How to reach me **me@oreki.is-a.dev**
 
 - ⚡ Fun fact **I think I'm not a pro**
 
