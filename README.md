@@ -16,7 +16,7 @@
   <img src="https://lanyard-profile-readme.vercel.app/api/835137181504372806?borderRadius=25px" />
 </a>
 <br>
-<a href="https://github.com/BearTS">
-  <img align="left" src="http://github-readme-streak-stats.herokuapp.com/?user=oreki-dev&theme=bear" />
-  <img src="https://github-readme-stats.vercel.app/api?username=oreki-dev&count_private=true&show_icons=true&theme=bear" />
+<a href="https://github.com/Oreki-Dev">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com/?user=oreki-dev&theme=bear" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=oreki-dev&count_private=true&show_icons=true&theme=bear" />
 </a>
