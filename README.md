@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Oreki</h1>
 <hr />
+<h3 align="center">Contact Me</h3>
+<p align="center">
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/%3COreki%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
+</p>
+<hr />
 <h3 align="center">Languages and Tools I Use:</h3>
 <p align="center"> 
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
