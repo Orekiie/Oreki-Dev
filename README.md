@@ -1,16 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oreki</h1>
-<h3 align="center">A passionate developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oreki-dev&label=Profile%20views&color=0e75b6&style=flat" alt="oreki-dev" /> </p>
-
-- 🌱 I’m currently learn **TypeScript**
-
-- 💬 Ask me about **discord.js, express and ejs**
-
-- 📫 How to reach me **me@oreki.tech**
-
-- ⚡ Fun fact **I think I'm not a pro**
-
+<hr />
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -22,7 +11,7 @@
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
 </p>
-
+<hr />
 <a href="https://discord.com/users/835137181504372806">
   <img src="https://lanyard-profile-readme.vercel.app/api/835137181504372806?borderRadius=25px" />
 </a>
