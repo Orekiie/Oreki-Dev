@@ -19,11 +19,10 @@
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
 </p>
 <hr />
-<a href="https://discord.com/users/835137181504372806">
-  <img src="https://lanyard-profile-readme.vercel.app/api/835137181504372806?borderRadius=25px" />
-</a>
 <br>
-<a href="https://github.com/Oreki-Dev">
+<p align="center">
+  <a href="https://github.com/Oreki-Dev">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com/?user=oreki-dev&theme=bear" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=oreki-dev&count_private=true&show_icons=true&theme=bear" />
-</a>
+  </a>
+</p>
