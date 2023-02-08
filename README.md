@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oreki</h1>
-<img src="https://count.getloli.com/get/@anime-api?theme=gelbooru" alt="Count" />
+<img align="center" src="https://count.getloli.com/get/@anime-api?theme=gelbooru" alt="Count" /> 
 <hr />
 <h3 align="center">Contact Me</h3>
 <p align="center">
